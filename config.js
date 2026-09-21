@@ -1,7 +1,7 @@
 module.exports = {
     // ============ TELEGRAM ============
-    TELEGRAM_BOT_TOKEN: "YOUR_TELEGRAM_BOT_TOKEN_HERE",
-    ADMIN_ID: "YOUR_TELEGRAM_ID_HERE",
+    TELEGRAM_BOT_TOKEN: "8953539470:AAFAwEzAkj0h4gaC1cVm2Wz4UBRDI004AZo",
+    ADMIN_ID: "7017159368",
 
     // ============ BOT ============
     BOT_NAME: "𝐑ᴀʜɪ 𝐁ᴏᴛ",
